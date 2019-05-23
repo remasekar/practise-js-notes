@@ -1,0 +1,29 @@
+mounting - when the component instance is created in class
+
+constructor  - to initialise state values and binding event handleers, super(props => incase to use props inside constructor using 'this' keyword)
+static getderivedstatefromprops - if the state in constructor depends on the props passed ( this dont work as it is static) takes props and state as arguments and returns null or new state
+render - to display the UI, pure function, child components can be called here
+componentdidupdate - when the component and its all child components are rendered , perfect place for ajax req
+nuances - called only after all of its child components are rendered.
+
+updating - when the component is re -rendered 
+
+constructor
+static getderivedstatefromprops
+shouldcomponentupdate(nextprops,next state ) - dictates whether it needed to be re rendered or not based on the comparison 
+render -
+static getsnapshotbeforeupdate - calls before immediately when virtual dom call happens. e.g. users scroll position reads from current dom state
+componentdidupdate(prevprops,prevstate,snapshot)( calls after render is finished in re-render cycles)
+
+
+componentwillunmount - invoked right after component is unmounted
+does necessary clean up 
+do not ever use setstate
+
+error error boundaries
+static getderivedstatefromError(error)
+componentdidcatch(error,info)
+during renering or constructor method
+
+
+

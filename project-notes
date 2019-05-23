@@ -1,0 +1,16 @@
+1) multiple users approach
+store users object in redux store
+token to be in local storage
+use api /users/current - page reload 
+
+payment gateway
+razor payment/stripe/paypal
+
+unit test cases
+1) mocha chai 
+2) react 
+
+storing images
+amazon s3
+multer s3
+image magick

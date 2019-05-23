@@ -1,0 +1,41 @@
+Session:1
+
+Diff == & ===
+Let var const
+Event loop
+is JS really single threaded? If so,Then how its working fast
+What is pure function 
+For(var i=0: i< 5 ;i++) {
+ SetTimeout({console.log(i)},1000)
+}
+wts the output? Wt if i replace the var with let?
+Life cycle methods nd hw it works in order
+
+Having an sorted array of n numbers.
+I need to find the index of the given number,without using any JS inbuilt methods/properties (note: u dont know the length of the array, and u shld reduce the complexity)
+
+Session 2:
+Rough ER diagram for netflix
+Wt is promise
+Wt is callbacks
+Which is good to use, callbacks or promises
+How binary search works
+Wt is THIS keyword, wts the scope of it
+How to use THIS keyword inside a function which in inside a class component.
+Wt is binary tree
+Wt are middlewares
+Explain quotify project
+How did u encrypt passwords in ur e-commerce backend project
+
+Session:3
+Pagination algo, hw it works
+Diff kinds of HTTP nd wts the use
+Wt is a framework
+Sql queries (limit and offset)
+Wt is api, y its used
+Ajax
+
+Session:4
+Recursive function program
+Same with iteration program
+Which is good recursive or iteration
