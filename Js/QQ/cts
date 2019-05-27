@@ -1,0 +1,41 @@
+round 1:
+
+write router method if there is change in url method in react what is the keyword in router
+redux architecture
+middleware server , client-middleware-server model
+React fragment
+calculate number of <p> tags in a page
+find occurences of elements in a array 
+what react version im using
+inline , horizontal tags in css
+session storage/cookie storage of token
+need to check if js executes right to left or left to right
+diff btwn pop and shift in array
+compare 2 objects
+lifecycle methods 
+variable scope 
+if react is  a SPA , how the links navigation is still called SPA
+differences between typescript and javascript
+mapdispatchtoprops and mapstatetoprops differences
+
+
+round 2:
+
+redux architecture
+storage of json data in redux store how long 
+const let diff and what error is thrown lint / run time error
+react hooks functional component / class component diff and how it is in react hooks
+why react thunk instead of axios
+promises
+array destructuring
+rest keyword
+es6 fat arrow advantages and is it mandatory to use fat arrow
+jest testing framework
+
+
+
+
+
+
+
+
